@@ -2,15 +2,6 @@
 
 A simple C program to minify JSON files by removing whitespace and comments.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-
 ## Introduction
 
 JSON Minification Tool is a command-line utility that takes a JSON file as input, removes unnecessary whitespace and comments, and outputs a minified JSON file. Minified JSON is useful for reducing file size and improving performance when transmitting JSON data over the internet.
@@ -57,3 +48,5 @@ JSON Minification Tool is a command-line utility that takes a JSON file as input
 
   - Replace input.json with the path to your input JSON file.
   - Replace output.json with the desired name for the minified output JSON file.
+
+Copyright 2023, Max Base
