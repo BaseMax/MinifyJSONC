@@ -1,4 +1,4 @@
-COMPILER = gcc
+COMPILER = cc
 CFLAGS = -O2 -g -Wall -Werror
 
 all: minify_json
