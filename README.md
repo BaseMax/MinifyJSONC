@@ -45,7 +45,6 @@ JSON Minification Tool is a command-line utility that takes a JSON file as input
 
 2. Build the JSON minification tool (optional):
    ```console
-   cd json-minification
    make
    ```
 
@@ -55,7 +54,7 @@ JSON Minification Tool is a command-line utility that takes a JSON file as input
 
   To minify a JSON file, use the following command:
   ```console
-  ./json-minify input.json output.json
+  ./minify_json input.json output.json
   ```
 
   - Replace input.json with the path to your input JSON file.
