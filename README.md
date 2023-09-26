@@ -10,8 +10,6 @@ A simple C program to minify JSON files by removing whitespace and comments.
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
