@@ -1,4 +1,4 @@
-CC = cc
+CC = gcc
 CFLAGS = -O2 -g -Wall -Werror
 
 all: minify_json
