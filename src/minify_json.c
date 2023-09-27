@@ -1,6 +1,10 @@
 /*
-*    @Author:   MaximilianEdison (MaxianEdison)
-*    @Date:     2023-09-26 08:21:20
+*
+*    @Name: Minify JSON C
+*    @License: GPL-3.0
+*    @Date:     26/09/2023
+*    @Repository:   https://github.com/BaseMax/MinifyJSONC
+*
 */
 
 #include <stdio.h>
